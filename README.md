@@ -1,6 +1,6 @@
 # Anuncios em site
 
-Análisando a quantidade de clicks em um web site para o setor de marketing de uma empresa que utiliza o e-commerce para venda dos seus produtos.
+Analisando a quantidade de clicks em um web site para o setor de marketing de uma empresa que utiliza o e-commerce para venda dos seus produtos.
 
     1. Gráfico de barras verticais com cliques por renda média dos clientes;
     2. Gráfico de barras horizontais com a quantidade de visualizações no site(horas);
